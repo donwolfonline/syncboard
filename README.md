@@ -1,5 +1,5 @@
 # Syncboard - AI Powered Real-time Whiteboard
-![thumbnail](https://github.com/donwolfonline/syncboard/assets/31382668/299feae8-e088-47ef-b8bf-f3a0360a7dfe)
+![thumbnail](https://github.com/donwolfonline/syncboardify/assets/31382668/299feae8-e088-47ef-b8bf-f3a0360a7dfe)
 Syncboard is a user-friendly board editor that lets you draw and work together with your team in real-time. It also has a handy AI feature that helps you make diagrams and flowcharts effortlessly.
 
 ## What's inside?
@@ -26,10 +26,10 @@ This project using Turborepo includes the following packages/apps:
 
 Run the following command:
 
-1. Clone the repo into a public GitHub repository (or fork https://github.com/donwolfonline/syncboard/fork).
+1. Clone the repo into a public GitHub repository (or fork https://github.com/donwolfonline/syncboardify/fork).
 
    ```sh
-   git clone https://github.com/donwolfonline/syncboard.git
+   git clone https://github.com/donwolfonline/syncboardify.git
    ```
 
 2. Go to the project folder
