@@ -35,7 +35,7 @@ export default function PageWrapper(): JSX.Element {
               ></Image>
             </Link>
 
-            <a href="https://github.com/JungRama/syncboard" target="_blank">
+            <a href="https://github.com/donwolfonline/syncboard" target="_blank">
               <div className="ml-3 flex items-center gap-1 rounded-full bg-black p-2 px-4 text-white">
                 <Github className="h-4 w-4 text-white"></Github>
                 <span className="hidden md:block">Visit Repository</span>
